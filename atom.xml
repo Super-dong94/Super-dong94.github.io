@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://superdong94.github.io</id>
     <title>Gridea</title>
-    <updated>2021-05-31T17:00:10.307Z</updated>
+    <updated>2021-05-31T17:01:28.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://superdong94.github.io"/>
     <link rel="self" href="https://superdong94.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://superdong94.github.io/post/edrawmax-1052-xia-zai-he-an-zhuang-jiao-cheng/</id>
         <link href="https://superdong94.github.io/post/edrawmax-1052-xia-zai-he-an-zhuang-jiao-cheng/">
         </link>
-        <updated>2021-05-31T16:56:18.000Z</updated>
+        <updated>2021-05-31T17:01:11.000Z</updated>
         <content type="html"><![CDATA[<p>软件介绍<br>
 Stata是一款专业的数据统计分析管理软件，功能强大、操作简单、界面美观、小巧实用，适用于各大企业，特别是用于市场调查方面的数据。它可以对提供的数据进行快速的分析，并且支持多种数据，能自动识别数据资源，帮助用户更快速高效的完成有关数据统计与分析的各项工作，使其工作更加得心应手。</p>
 <p>软件具有作图功能、统计功能、程序设计、功能列表、网络功能等诸多实用功能，采用最具亲和力的窗口接口，使用者自行建立程序时，能提供具有直接命令式的语法。</p>
@@ -50,38 +50,6 @@ Stata是一款专业的数据统计分析管理软件，功能强大、操作简
 <p>20.点击完成</p>
 <p>21.在新弹出的软件页面中，选择禁止自动检查更新</p>
 <p>22.然后，软件就可以使用了</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://superdong94.github.io/post/hello-gridea/</id>
-        <link href="https://superdong94.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>

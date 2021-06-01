@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Super-dong94.github.io</id>
     <title>Paper绘图</title>
-    <updated>2021-06-01T16:14:35.593Z</updated>
+    <updated>2021-06-01T16:17:22.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Super-dong94.github.io"/>
     <link rel="self" href="https://Super-dong94.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://Super-dong94.github.io/images/avatar.png</logo>
     <icon>https://Super-dong94.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Paper绘图</rights>
+    <entry>
+        <title type="html"><![CDATA[你好]]></title>
+        <id>https://Super-dong94.github.io/post/ni-hao/</id>
+        <link href="https://Super-dong94.github.io/post/ni-hao/">
+        </link>
+        <updated>2021-06-01T16:17:12.000Z</updated>
+        <content type="html"><![CDATA[<p>是这样呢</p>
+]]></content>
+    </entry>
 </feed>

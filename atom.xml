@@ -1,55 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Super-dong94.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-06-01T15:44:53.167Z</updated>
+    <title>Paper绘图</title>
+    <updated>2021-06-01T16:14:35.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Super-dong94.github.io"/>
     <link rel="self" href="https://Super-dong94.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>为天地立心，为生民立命，为往圣继绝学，为万世开太平！</subtitle>
     <logo>https://Super-dong94.github.io/images/avatar.png</logo>
     <icon>https://Super-dong94.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[EdrawMax 10.5.2 下载和安装教程]]></title>
-        <id>https://Super-dong94.github.io/post/edrawmax-1052-xia-zai-he-an-zhuang-jiao-cheng/</id>
-        <link href="https://Super-dong94.github.io/post/edrawmax-1052-xia-zai-he-an-zhuang-jiao-cheng/">
-        </link>
-        <updated>2021-05-31T17:01:11.000Z</updated>
-        <content type="html"><![CDATA[<p>软件介绍<br>
-Stata是一款专业的数据统计分析管理软件，功能强大、操作简单、界面美观、小巧实用，适用于各大企业，特别是用于市场调查方面的数据。它可以对提供的数据进行快速的分析，并且支持多种数据，能自动识别数据资源，帮助用户更快速高效的完成有关数据统计与分析的各项工作，使其工作更加得心应手。</p>
-<p>软件具有作图功能、统计功能、程序设计、功能列表、网络功能等诸多实用功能，采用最具亲和力的窗口接口，使用者自行建立程序时，能提供具有直接命令式的语法。</p>
-<p>——来源于网络</p>
-<p>软件下载<br>
-[测试环境]：Windows 10 64 bit （32 bit也可以试试）</p>
-<p>[下载链接]：公众号内回复：Stata16 ，最好复制一下，不然错了没有回复的</p>
-<p>软件百分百<br>
-软件百分百<br>
-提供最新版本，无捆绑绿色的科研软件及其下载教程！<br>
-公众号</p>
-<p>软件安装<br>
-1.解压拿到的软件</p>
-<p>2.双击SetupStata16.exe运行程序</p>
-<p>3.点击下一步</p>
-<p>4.选择I accept，下一步</p>
-<p>5.继续Next，也可以更改一下这个名字，都可以</p>
-<p>6.勾选第一个StataMP，进行安装</p>
-<p>7.选择安装文件夹</p>
-<p>8.点击Next</p>
-<p>9.选择第一个选项，Next</p>
-<p>10.进行安装</p>
-<p>11.正在安装（安装过程比较慢，稍等片刻）</p>
-<p>12.点击完成</p>
-<p>13.返回一开始解压的文件夹内，找到Crack文件夹</p>
-<p>14.复制这两个文件</p>
-<p>15.粘贴在安装文件夹下（第7步所选择的安装文件夹），替换相应的文件</p>
-<p>16.打开软件，直接双击即可</p>
-<p>17.右击，以管理员身份运行</p>
-<p>18.出现这个，选择确定</p>
-<p>19.点击下一步，继续</p>
-<p>20.点击完成</p>
-<p>21.在新弹出的软件页面中，选择禁止自动检查更新</p>
-<p>22.然后，软件就可以使用了</p>
-]]></content>
-    </entry>
+    <rights>All rights reserved 2021, Paper绘图</rights>
 </feed>

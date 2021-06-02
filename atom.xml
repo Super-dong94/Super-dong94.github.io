@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Super-dong94.github.io</id>
     <title>Paper绘图</title>
-    <updated>2021-06-02T17:33:02.826Z</updated>
+    <updated>2021-06-02T17:35:47.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Super-dong94.github.io"/>
     <link rel="self" href="https://Super-dong94.github.io/atom.xml"/>
@@ -11,57 +11,13 @@
     <icon>https://Super-dong94.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Paper绘图</rights>
     <entry>
-        <title type="html"><![CDATA[AI的这个技巧，一秒钟快速建造新图！]]></title>
-        <id>https://Super-dong94.github.io/post/AI的这个技巧，一秒钟快速建造新图！/</id>
-        <link href="https://Super-dong94.github.io/post/AI的这个技巧，一秒钟快速建造新图！/">
-        </link>
-        <updated>2021-06-02T17:17:12.000Z</updated>
-        <summary type="html"><![CDATA[<p>网络上有很多AI的矢量素材，那么我们需要拿过来到自己的文章中使用！第一步就是对图形更改颜色，换成跟之前的图形不一样，方可进行下一步操作！今天给大家介绍一个AI技巧，快速更改所有矢量元素颜色！如下所示，只需要一秒钟！</p>
-<h6 id="img-srchttpssuperdongoss-cn-beijingaliyuncscomimage-20210512123449121png-altimage-20210512123449121-stylezoom50"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210512123449121.png" alt="image-20210512123449121" style="zoom:50%;" /></h6>
-]]></summary>
-        <content type="html"><![CDATA[<p>网络上有很多AI的矢量素材，那么我们需要拿过来到自己的文章中使用！第一步就是对图形更改颜色，换成跟之前的图形不一样，方可进行下一步操作！今天给大家介绍一个AI技巧，快速更改所有矢量元素颜色！如下所示，只需要一秒钟！</p>
-<h6 id="img-srchttpssuperdongoss-cn-beijingaliyuncscomimage-20210512123449121png-altimage-20210512123449121-stylezoom50"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210512123449121.png" alt="image-20210512123449121" style="zoom:50%;" /></h6>
-<!--more-->
-<h6 id="font-colorred背景fontfont-color008b8b介绍font"><font color='red'>背景</font><font color='#008B8B'>介绍</font></h6>
-<p>网络上有很多AI的矢量素材，那么我们需要拿过来到自己的文章中使用！第一步就是对图形更改颜色，换成跟之前的图形不一样，方可进行下一步操作！</p>
-<p>今天给大家介绍一个AI技巧，快速更改所有矢量元素颜色！如下所示，只需要一秒钟！</p>
-<h6 id="font-colorred作图fontfont-color008b8b软件font"><font color='red'>作图</font><font color='#008B8B'>软件</font></h6>
-<p>Adobe Illustrator 2021 （没有的点击下方图片）</p>
-<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210512122713586.png" alt="image-20210512122713586" loading="lazy"></figure>
-<h6 id="font-colorred绘图fontfont-color008b8b教程font"><font color='red'>绘图</font><font color='#008B8B'>教程</font></h6>
-<p>1.打开拿到的AI矢量文件，这里我以我画的纳米球为例</p>
-<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210512122820600.png" alt="image-20210512122820600" loading="lazy"></figure>
-<ol start="2">
-<li>
-<p>Ctrl+A全选，或者选中需要更改颜色的元素</p>
-<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210512122946511.png" alt="image-20210512122946511" loading="lazy"></figure>
-</li>
-<li>
-<p>选择菜单栏上的重新着色图稿按钮</p>
-<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210512122932486.png" alt="image-20210512122932486" loading="lazy"></figure>
-</li>
-</ol>
-<p>4.旋转圈圈，颜色就会更改，变成和之前不一样的颜色了</p>
-<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210512123058669.png" alt="image-20210512123058669" loading="lazy"></figure>
-<p>5.也可以拉动轴，调整颜色的深浅</p>
-<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210512123224948.png" alt="image-20210512123224948" loading="lazy"></figure>
-<p>6.也可以通过下方调整颜色，<strong><font color='#008B8B'>横线轴可以调节明暗</font></strong></p>
-<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210512123302456.png" alt="image-20210512123302456" loading="lazy"></figure>
-<p>7.最终，整体颜色调节完毕</p>
-<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210512123449121.png" alt="image-20210512123449121" loading="lazy"></figure>
-<p>8.怎么样，是不是很容易，简单的操作！</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2019 年世界十大出口国的贸易方向——高级弦图]]></title>
         <id>https://Super-dong94.github.io/post/2019 年世界十大出口国的贸易方向——高级弦图/</id>
         <link href="https://Super-dong94.github.io/post/2019 年世界十大出口国的贸易方向——高级弦图/">
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
-        <summary type="html"><![CDATA[<p>上个教程我们讲到弦图，说到了弦图的定义以及应用的场景，使用简单的数据帮助大家理清了基础的概念。这个教程我们来学一下弦图的有关参数的调节，使用复杂的数据来进行一些其他场景的应用。本教程我们展示出了 <strong>2019 年世界十大出口国的贸易方向</strong>，相较于上个教程的数据更加丰富，更加具有现实意义。</p>
-<img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134502754.png" alt="image-20210331134502754" style="zoom:50%;" />
-]]></summary>
-        <content type="html"><![CDATA[<p>上个教程我们讲到弦图，说到了弦图的定义以及应用的场景，使用简单的数据帮助大家理清了基础的概念。这个教程我们来学一下弦图的有关参数的调节，使用复杂的数据来进行一些其他场景的应用。本教程我们展示出了 <strong>2019 年世界十大出口国的贸易方向</strong>，相较于上个教程的数据更加丰富，更加具有现实意义。</p>
+        <content type="html"><![CDATA[<!-- more -->
+<p>上个教程我们讲到弦图，说到了弦图的定义以及应用的场景，使用简单的数据帮助大家理清了基础的概念。这个教程我们来学一下弦图的有关参数的调节，使用复杂的数据来进行一些其他场景的应用。本教程我们展示出了 <strong>2019 年世界十大出口国的贸易方向</strong>，相较于上个教程的数据更加丰富，更加具有现实意义。</p>
 <img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134502754.png" alt="image-20210331134502754" style="zoom:50%;" />
 <!--more-->
 <p>上个教程我们讲到弦图，说到了弦图的定义以及应用的场景，使用简单的数据帮助大家理清了基础的概念。这个教程我们来学一下弦图的有关参数的调节，使用复杂的数据来进行一些其他场景的应用。</p>
@@ -459,6 +415,79 @@
 </ul>
 <p>小编也是前期通过看书，看视频，看公众号，略微学懂了一点，所以将自己学的R语言的知识免费分享给大家。</p>
 <p>在这里，我们 <strong><font color='#008B8B'>只讲实战</font></strong> ， <strong><font color='#008B8B'>只讲最有用的案例</font></strong> ，这样，需要什么，我们就去学什么。需要绘图，我们就学这个图的代码，需要数据分析，我们就研究分析的代码。只有这样，具有目标，才能学好R语言。这只是一个作为R小白的体会。加油！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R语言——绘图前的基本设置]]></title>
+        <id>https://Super-dong94.github.io/post/R语言——绘图前的基本设置/</id>
+        <link href="https://Super-dong94.github.io/post/R语言——绘图前的基本设置/">
+        </link>
+        <updated>2021-06-01T16:17:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>在安装了R软件以及RStudio软件之后，我们就可以正常在RStudio里面进行一些基本操作了，进行安装包，作图和数据分析了。那么在基本的作图之前，我们是需要进行对RStudio进行一些基础设置，方便之后的绘图。</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530144645957.png" alt="image-20210530144645957" loading="lazy"></figure>
+]]></summary>
+        <content type="html"><![CDATA[<p>在安装了R软件以及RStudio软件之后，我们就可以正常在RStudio里面进行一些基本操作了，进行安装包，作图和数据分析了。那么在基本的作图之前，我们是需要进行对RStudio进行一些基础设置，方便之后的绘图。</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530144645957.png" alt="image-20210530144645957" loading="lazy"></figure>
+<!-- more -->
+<h4 id="font-colorred本节fontfont-color008b8b介绍font"><font color='red'>本节</font><font color='#008B8B'>介绍</font></h4>
+<p>在安装了R软件以及RStudio软件之后，我们就可以正常在RStudio里面进行一些基本操作了，进行安装包，作图和数据分析了。</p>
+<p>那么在基本的作图之前，我们是需要进行对RStudio进行一些基础设置，方便之后的绘图。</p>
+<h4 id="font-colorred软件fontfont-color008b8b下载font"><font color='red'>软件</font><font color='#008B8B'>下载</font></h4>
+<p><a href="https://mp.weixin.qq.com/s/KSB-9BpqqqeK1mwNwEy9YA">R</a></p>
+<p><a href="https://mp.weixin.qq.com/s/loDuz37UTg49QCQg3V9fOQ">RStudio</a></p>
+<p>两个软件的获取、下载和安装，均在**<font color='#008B8B'>软件百分百</font>**公众号领取和学习，本公众号只进行软件学习的教程</p>
+<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602003133752.png" alt="image-20210602003133752" loading="lazy"></figure>
+<h4 id="font-colorred软件fontfont-color008b8b教程font"><font color='red'>软件</font><font color='#008B8B'>教程</font></h4>
+<p>打开RStudio之后，我们就可以看到以下的界面了，分为**<font color='#008B8B'>四个部分</font>**：</p>
+<ul>
+<li>1区主要进行输入代码，编辑代码</li>
+<li>2区主要查看环境变量，历史等</li>
+<li>3区主要是代码执行的控制台，方便查看代码运行的状况</li>
+<li>4区主要查看绘图的结果，安装包的情况等</li>
+</ul>
+<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530141947374.png" alt="image-20210530141947374" loading="lazy"></figure>
+<p>接下来我们对RStudio进行几个基础设置</p>
+<ul>
+<li>
+<p><strong><font color='#008B8B'>文件的新建，保存</font></strong></p>
+<p>如果要新建一个文本，可以在这里新建，方便录入其他代码</p>
+<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530142335080.png" alt="image-20210530142335080" loading="lazy"></figure>
+</li>
+<li>
+<p><strong><font color='#008B8B'>R版本的选择和文件夹设置</font></strong></p>
+<p>RStudio只是为了方便执行R的代码而产生的，后台控制其实还是R语言，所以我们得设置好RStudio在使用哪个版本的R软件。（菜单栏—Tools—Global Options）</p>
+<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530142722284.png" alt="image-20210530142722284" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530142740063.png" alt="image-20210530142740063" loading="lazy"></figure>
+<p>文件夹的设置，就是关于R的的结果文件都在哪里放着，这个也需要设置</p>
+<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530142945350.png" alt="image-20210530142945350" loading="lazy"></figure>
+<p>设置好之后，我们可以看到。控制台区域，显示出了结果保存的文件夹在哪里了</p>
+<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530143035988.png" alt="image-20210530143035988" loading="lazy"></figure>
+</li>
+<li>
+<p><strong><font color='#008B8B'>关于软件主题的设置</font></strong></p>
+<p>在**<font color='#008B8B'>菜单栏—Tools—Global Options—Appearance</font><strong>，</strong><font color='#008B8B'>RStudio theme</font><strong>中可以设置主题，</strong><font color='#008B8B'>Zoom</font>**中可以设置版面放大或者缩小，Editor font中可以设置字体大小，有时候代码太小，可以适当调大。</p>
+<figure data-type="image" tabindex="9"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530143217130.png" alt="image-20210530143217130" loading="lazy"></figure>
+<p>**<font color='#008B8B'>Editor theme</font>**中可以设置主题，比如我设置为Chaos主题</p>
+<figure data-type="image" tabindex="10"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530144436006.png" alt="image-20210530144436006" loading="lazy"></figure>
+<p>我们看看软件版面，顿时就高大上了很多，感觉很有质感</p>
+<figure data-type="image" tabindex="11"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530144645957.png" alt="image-20210530144645957" loading="lazy"></figure>
+</li>
+<li>
+<p><strong><font color='#008B8B'>关于各个板块的设置</font></strong></p>
+<p>在**<font color='#008B8B'>菜单栏—Tools—Global Options—Pane Layout</font>**中可以设置各个板块</p>
+<figure data-type="image" tabindex="12"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530144822901.png" alt="image-20210530144822901" loading="lazy"></figure>
+<p>比如你只想将几个板块进行调整顺序，你可以设置</p>
+<figure data-type="image" tabindex="13"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530145151328.png" alt="image-20210530145151328" loading="lazy"></figure>
+</li>
+<li>
+<p><strong><font color='#008B8B'>关于安装包的设置</font></strong></p>
+<p>R里面在实际操作的时候需要安装很多的包，所以就必须下载包，设置靠近自己的服务器，下载包的速度会大大提升，比如**<font color='#008B8B'>我在天津，我就选择了清华的镜像服务器</font>**</p>
+<figure data-type="image" tabindex="14"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530145415306.png" alt="image-20210530145415306" loading="lazy"></figure>
+<p>你也可以选择其他的，靠近自己的区域，如兰州，同济等其他的镜像</p>
+<figure data-type="image" tabindex="15"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530145608160.png" alt="image-20210530145608160" loading="lazy"></figure>
+</li>
+</ul>
+<p>关于本文有任何问题，均可以在评论区留言，好的问题会被回答和精选，方便更多人的学习。</p>
 ]]></content>
     </entry>
 </feed>

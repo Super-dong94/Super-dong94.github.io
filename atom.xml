@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Super-dong94.github.io</id>
     <title>Paper绘图</title>
-    <updated>2021-06-02T17:47:18.151Z</updated>
+    <updated>2021-06-02T17:53:18.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Super-dong94.github.io"/>
     <link rel="self" href="https://Super-dong94.github.io/atom.xml"/>
@@ -93,11 +93,11 @@
         <link href="https://Super-dong94.github.io/post/2019 年世界十大出口国的贸易方向——高级弦图/">
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
-        <summary type="html"><![CDATA[<p>上个教程我们讲到弦图，说到了弦图的定义以及应用的场景，使用简单的数据帮助大家理清了基础的概念。这个教程我们来学一下弦图的有关参数的调节，使用复杂的数据来进行一些其他场景的应用。本教程我们展示出了 <strong>2019 年世界十大出口国的贸易方向</strong>，相较于上个教程的数据更加丰富，更加具有现实意义。</p>
-<img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134502754.png" alt="image-20210331134502754" style="zoom:50%;" />
+        <summary type="html"><![CDATA[<img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134502754.png" alt="image-20210331134502754" style="zoom: 25%;" />
+<p>上个教程我们讲到弦图，说到了弦图的定义以及应用的场景，使用简单的数据帮助大家理清了基础的概念。这个教程我们来学一下弦图的有关参数的调节，使用复杂的数据来进行一些其他场景的应用。本教程我们展示出了 <strong>2019 年世界十大出口国的贸易方向</strong>，相较于上个教程的数据更加丰富，更加具有现实意义。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>上个教程我们讲到弦图，说到了弦图的定义以及应用的场景，使用简单的数据帮助大家理清了基础的概念。这个教程我们来学一下弦图的有关参数的调节，使用复杂的数据来进行一些其他场景的应用。本教程我们展示出了 <strong>2019 年世界十大出口国的贸易方向</strong>，相较于上个教程的数据更加丰富，更加具有现实意义。</p>
-<img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134502754.png" alt="image-20210331134502754" style="zoom:50%;" />
+        <content type="html"><![CDATA[<img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134502754.png" alt="image-20210331134502754" style="zoom: 25%;" />
+<p>上个教程我们讲到弦图，说到了弦图的定义以及应用的场景，使用简单的数据帮助大家理清了基础的概念。这个教程我们来学一下弦图的有关参数的调节，使用复杂的数据来进行一些其他场景的应用。本教程我们展示出了 <strong>2019 年世界十大出口国的贸易方向</strong>，相较于上个教程的数据更加丰富，更加具有现实意义。</p>
 <!--more-->
 <p>上个教程我们讲到弦图，说到了弦图的定义以及应用的场景，使用简单的数据帮助大家理清了基础的概念。这个教程我们来学一下弦图的有关参数的调节，使用复杂的数据来进行一些其他场景的应用。</p>
 <p>本教程我们展示出了 <strong>2019 年世界十大出口国的贸易方向</strong>，相较于上个教程的数据更加丰富，更加具有现实意义。</p>
@@ -143,10 +143,10 @@
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
         <summary type="html"><![CDATA[<p>柱形散点图，可以用来表示不同分组下的不同数据，非常直观。今天，我们就使用软件的数据，来展示2005-2015年，不同国家人口的预期寿命！</p>
-<h6 id="img-srchttpssuperdongoss-cn-beijingaliyuncscomimage-20210508140554308png-altimage-20210508140554308-stylezoom50"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508140554308.png" alt="image-20210508140554308" style="zoom:50%;" /></h6>
+<h6 id="img-srchttpssuperdongoss-cn-beijingaliyuncscomimage-20210508140554308png-altimage-20210508140554308-stylezoom-25"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508140554308.png" alt="image-20210508140554308" style="zoom: 25%;" /></h6>
 ]]></summary>
         <content type="html"><![CDATA[<p>柱形散点图，可以用来表示不同分组下的不同数据，非常直观。今天，我们就使用软件的数据，来展示2005-2015年，不同国家人口的预期寿命！</p>
-<h6 id="img-srchttpssuperdongoss-cn-beijingaliyuncscomimage-20210508140554308png-altimage-20210508140554308-stylezoom50"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508140554308.png" alt="image-20210508140554308" style="zoom:50%;" /></h6>
+<h6 id="img-srchttpssuperdongoss-cn-beijingaliyuncscomimage-20210508140554308png-altimage-20210508140554308-stylezoom-25"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508140554308.png" alt="image-20210508140554308" style="zoom: 25%;" /></h6>
 <!--more-->
 <h6 id="font-color00bfff介绍font"><font color='#00BFFF'>介绍</font></h6>
 <p>柱形散点图，可以用来表示不同分组下的不同数据，非常直观。今天，我们就使用软件的数据，来展示2005-2015年，不同国家人口的预期寿命！</p>

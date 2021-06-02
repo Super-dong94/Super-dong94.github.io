@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Super-dong94.github.io</id>
     <title>Paper绘图</title>
-    <updated>2021-06-02T16:12:55.391Z</updated>
+    <updated>2021-06-02T16:52:12.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Super-dong94.github.io"/>
     <link rel="self" href="https://Super-dong94.github.io/atom.xml"/>
@@ -17,8 +17,10 @@
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
         <summary type="html"><![CDATA[<p>R是用于统计分析、绘图的语言和操作环境。R是属于GNU系统的一个自由、免费、源代码开放的软件，它是一个用于统计计算和统计制图的优秀工具。</p>
+<img src="https://superdong.oss-cn-beijing.aliyuncs.com/u=946558475,1802174703&fm=26&fmt=auto&gp=0.jpg" alt="img" style="zoom:50%;" />
 ]]></summary>
         <content type="html"><![CDATA[<p>R是用于统计分析、绘图的语言和操作环境。R是属于GNU系统的一个自由、免费、源代码开放的软件，它是一个用于统计计算和统计制图的优秀工具。</p>
+<img src="https://superdong.oss-cn-beijing.aliyuncs.com/u=946558475,1802174703&fm=26&fmt=auto&gp=0.jpg" alt="img" style="zoom:50%;" />
 <!-- more -->
 <h4 id="font-colorred软件fontfont-color008b8b介绍font"><font color='red'>软件</font><font color='#008B8B'>介绍</font></h4>
 <p>R是用于统计分析、绘图的语言和操作环境。R是属于GNU系统的一个自由、免费、源代码开放的软件，它是一个用于统计计算和统计制图的优秀工具。</p>
@@ -61,8 +63,10 @@
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
         <summary type="html"><![CDATA[<p>RStudio是R的集成开发环境(IDE)，它包括一个控制台、支持直接执行代码的语法高亮编辑器，以及用于绘图、历史、调试和工作空间管理的工具。通过在RStudio软件中操作R，极大地方便了作图和数据统计分析。</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/u=1440961058,3032258373&amp;fm=26&amp;fmt=auto&amp;gp=0.jpg" alt="img" loading="lazy"></figure>
 ]]></summary>
         <content type="html"><![CDATA[<p>RStudio是R的集成开发环境(IDE)，它包括一个控制台、支持直接执行代码的语法高亮编辑器，以及用于绘图、历史、调试和工作空间管理的工具。通过在RStudio软件中操作R，极大地方便了作图和数据统计分析。</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/u=1440961058,3032258373&amp;fm=26&amp;fmt=auto&amp;gp=0.jpg" alt="img" loading="lazy"></figure>
 <!-- more -->
 <h4 id="font-colorred软件fontfont-color008b8b介绍font"><font color='red'>软件</font><font color='#008B8B'>介绍</font></h4>
 <p>RStudio是R的集成开发环境(IDE)，它包括一个控制台、支持直接执行代码的语法高亮编辑器，以及用于绘图、历史、调试和工作空间管理的工具。</p>
@@ -71,26 +75,26 @@
 <p>[测试环境]：Windows 10 64 bit （32 bit也可以安装）</p>
 <p>[版  本  号]：RStudio-1.4.1106 （该软件截止发文，为最新版本）</p>
 <p>[下载链接]：公众号内回复：<strong><font color='#008B8B'>RStudio</font></strong>，最好复制一下，不然错了没有回复的</p>
-<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602003032175.png" alt="image-20210602003032175" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602003032175.png" alt="image-20210602003032175" loading="lazy"></figure>
 <h4 id="font-colorred软件fontfont-color008b8b安装font"><font color='red'>软件</font><font color='#008B8B'>安装</font></h4>
 <p>1.双击  <strong><font color='#008B8B'>RStudio-1.4.1106</font></strong> 软件</p>
-<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210528085359095.png" alt="image-20210528085359095" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210528085359095.png" alt="image-20210528085359095" loading="lazy"></figure>
 <p>2.选择运行</p>
-<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210528085422598.png" alt="image-20210528085422598" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210528085422598.png" alt="image-20210528085422598" loading="lazy"></figure>
 <p>3.点击下一步</p>
-<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210528085449857.png" alt="image-20210528085449857" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210528085449857.png" alt="image-20210528085449857" loading="lazy"></figure>
 <p>4.选择安装文件夹（同样，<strong><font color='#008B8B'>不能有空格和中文字符</font></strong> ）</p>
-<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210528085631854.png" alt="image-20210528085631854" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210528085631854.png" alt="image-20210528085631854" loading="lazy"></figure>
 <p>5.选择安装即可</p>
-<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210528085710483.png" alt="image-20210528085710483" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210528085710483.png" alt="image-20210528085710483" loading="lazy"></figure>
 <p>6.正在安装中</p>
-<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210528085727869.png" alt="image-20210528085727869" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210528085727869.png" alt="image-20210528085727869" loading="lazy"></figure>
 <p>7.安装完成</p>
-<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210528085754121.png" alt="image-20210528085754121" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210528085754121.png" alt="image-20210528085754121" loading="lazy"></figure>
 <p>8.直接双击打开即可</p>
-<figure data-type="image" tabindex="9"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210528085910032.png" alt="image-20210528085910032" loading="lazy"></figure>
+<figure data-type="image" tabindex="10"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210528085910032.png" alt="image-20210528085910032" loading="lazy"></figure>
 <p>9.如果你想选择其他版本的R进行打开，可以按住Ctrl，双击RStudio，就会出现你电脑中安装的所有R语言软件，选中，点击ok即可运行</p>
-<figure data-type="image" tabindex="10"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210528090008370.png" alt="image-20210528090008370" loading="lazy"></figure>
+<figure data-type="image" tabindex="11"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210528090008370.png" alt="image-20210528090008370" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
@@ -100,8 +104,10 @@
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
         <summary type="html"><![CDATA[<p>其实在很早之前就听说过R这个软件，但是学习总是从易至难，先得学一些基础的、好学的软件（如Origin，Graphpad），然后再学一些复杂的、高级的软件（如R，Python）。 <strong><font color='#008B8B'>考虑到R语言对于数据统计分析和绘图的友好性</font></strong> ，所以，之后，就会出现R语言绘图了，也会包括一些R语言的其他分析。</p>
+<img src="https://superdong.oss-cn-beijing.aliyuncs.com/u=946558475,1802174703&fm=26&fmt=auto&gp=0.jpg" alt="img" style="zoom:50%;" />
 ]]></summary>
         <content type="html"><![CDATA[<p>其实在很早之前就听说过R这个软件，但是学习总是从易至难，先得学一些基础的、好学的软件（如Origin，Graphpad），然后再学一些复杂的、高级的软件（如R，Python）。 <strong><font color='#008B8B'>考虑到R语言对于数据统计分析和绘图的友好性</font></strong> ，所以，之后，就会出现R语言绘图了，也会包括一些R语言的其他分析。</p>
+<img src="https://superdong.oss-cn-beijing.aliyuncs.com/u=946558475,1802174703&fm=26&fmt=auto&gp=0.jpg" alt="img" style="zoom:50%;" />
 <!--more-->
 <p>其实在很早之前就听说过R这个软件，但是学习总是从易至难，先得学一些基础的、好学的软件（如Origin，Graphpad），然后再学一些复杂的、高级的软件（如R，Python）。 <strong><font color='#008B8B'>考虑到R语言对于数据统计分析和绘图的友好性</font></strong> ，所以，之后，在Paper绘图公众号中，就会出现R语言绘图了，也会包括一些R语言的其他分析。</p>
 <h6 id="font-color008b8b大概有以下类别font"><strong><font color='#008B8B'>大概有以下类别：</font></strong></h6>
@@ -150,8 +156,10 @@
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
         <summary type="html"><![CDATA[<p>在安装了R软件以及RStudio软件之后，我们就可以正常在RStudio里面进行一些基本操作了，进行安装包，作图和数据分析了。那么在基本的作图之前，我们是需要进行对RStudio进行一些基础设置，方便之后的绘图。</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530144645957.png" alt="image-20210530144645957" loading="lazy"></figure>
 ]]></summary>
         <content type="html"><![CDATA[<p>在安装了R软件以及RStudio软件之后，我们就可以正常在RStudio里面进行一些基本操作了，进行安装包，作图和数据分析了。那么在基本的作图之前，我们是需要进行对RStudio进行一些基础设置，方便之后的绘图。</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530144645957.png" alt="image-20210530144645957" loading="lazy"></figure>
 <!-- more -->
 <h4 id="font-colorred本节fontfont-color008b8b介绍font"><font color='red'>本节</font><font color='#008B8B'>介绍</font></h4>
 <p>在安装了R软件以及RStudio软件之后，我们就可以正常在RStudio里面进行一些基本操作了，进行安装包，作图和数据分析了。</p>
@@ -160,7 +168,7 @@
 <p><a href="https://mp.weixin.qq.com/s/KSB-9BpqqqeK1mwNwEy9YA">R</a></p>
 <p><a href="https://mp.weixin.qq.com/s/loDuz37UTg49QCQg3V9fOQ">RStudio</a></p>
 <p>两个软件的获取、下载和安装，均在**<font color='#008B8B'>软件百分百</font>**公众号领取和学习，本公众号只进行软件学习的教程</p>
-<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602003133752.png" alt="image-20210602003133752" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602003133752.png" alt="image-20210602003133752" loading="lazy"></figure>
 <h4 id="font-colorred软件fontfont-color008b8b教程font"><font color='red'>软件</font><font color='#008B8B'>教程</font></h4>
 <p>打开RStudio之后，我们就可以看到以下的界面了，分为**<font color='#008B8B'>四个部分</font>**：</p>
 <ul>
@@ -169,46 +177,46 @@
 <li>3区主要是代码执行的控制台，方便查看代码运行的状况</li>
 <li>4区主要查看绘图的结果，安装包的情况等</li>
 </ul>
-<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530141947374.png" alt="image-20210530141947374" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530141947374.png" alt="image-20210530141947374" loading="lazy"></figure>
 <p>接下来我们对RStudio进行几个基础设置</p>
 <ul>
 <li>
 <p><strong><font color='#008B8B'>文件的新建，保存</font></strong></p>
 <p>如果要新建一个文本，可以在这里新建，方便录入其他代码</p>
-<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530142335080.png" alt="image-20210530142335080" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530142335080.png" alt="image-20210530142335080" loading="lazy"></figure>
 </li>
 <li>
 <p><strong><font color='#008B8B'>R版本的选择和文件夹设置</font></strong></p>
 <p>RStudio只是为了方便执行R的代码而产生的，后台控制其实还是R语言，所以我们得设置好RStudio在使用哪个版本的R软件。（菜单栏—Tools—Global Options）</p>
-<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530142722284.png" alt="image-20210530142722284" loading="lazy"></figure>
-<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530142740063.png" alt="image-20210530142740063" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530142722284.png" alt="image-20210530142722284" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530142740063.png" alt="image-20210530142740063" loading="lazy"></figure>
 <p>文件夹的设置，就是关于R的的结果文件都在哪里放着，这个也需要设置</p>
-<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530142945350.png" alt="image-20210530142945350" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530142945350.png" alt="image-20210530142945350" loading="lazy"></figure>
 <p>设置好之后，我们可以看到。控制台区域，显示出了结果保存的文件夹在哪里了</p>
-<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530143035988.png" alt="image-20210530143035988" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530143035988.png" alt="image-20210530143035988" loading="lazy"></figure>
 </li>
 <li>
 <p><strong><font color='#008B8B'>关于软件主题的设置</font></strong></p>
 <p>在**<font color='#008B8B'>菜单栏—Tools—Global Options—Appearance</font><strong>，</strong><font color='#008B8B'>RStudio theme</font><strong>中可以设置主题，</strong><font color='#008B8B'>Zoom</font>**中可以设置版面放大或者缩小，Editor font中可以设置字体大小，有时候代码太小，可以适当调大。</p>
-<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530143217130.png" alt="image-20210530143217130" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530143217130.png" alt="image-20210530143217130" loading="lazy"></figure>
 <p>**<font color='#008B8B'>Editor theme</font>**中可以设置主题，比如我设置为Chaos主题</p>
-<figure data-type="image" tabindex="9"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530144436006.png" alt="image-20210530144436006" loading="lazy"></figure>
+<figure data-type="image" tabindex="10"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530144436006.png" alt="image-20210530144436006" loading="lazy"></figure>
 <p>我们看看软件版面，顿时就高大上了很多，感觉很有质感</p>
-<figure data-type="image" tabindex="10"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530144645957.png" alt="image-20210530144645957" loading="lazy"></figure>
+<figure data-type="image" tabindex="11"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530144645957.png" alt="image-20210530144645957" loading="lazy"></figure>
 </li>
 <li>
 <p><strong><font color='#008B8B'>关于各个板块的设置</font></strong></p>
 <p>在**<font color='#008B8B'>菜单栏—Tools—Global Options—Pane Layout</font>**中可以设置各个板块</p>
-<figure data-type="image" tabindex="11"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530144822901.png" alt="image-20210530144822901" loading="lazy"></figure>
+<figure data-type="image" tabindex="12"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530144822901.png" alt="image-20210530144822901" loading="lazy"></figure>
 <p>比如你只想将几个板块进行调整顺序，你可以设置</p>
-<figure data-type="image" tabindex="12"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530145151328.png" alt="image-20210530145151328" loading="lazy"></figure>
+<figure data-type="image" tabindex="13"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530145151328.png" alt="image-20210530145151328" loading="lazy"></figure>
 </li>
 <li>
 <p><strong><font color='#008B8B'>关于安装包的设置</font></strong></p>
 <p>R里面在实际操作的时候需要安装很多的包，所以就必须下载包，设置靠近自己的服务器，下载包的速度会大大提升，比如**<font color='#008B8B'>我在天津，我就选择了清华的镜像服务器</font>**</p>
-<figure data-type="image" tabindex="13"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530145415306.png" alt="image-20210530145415306" loading="lazy"></figure>
+<figure data-type="image" tabindex="14"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530145415306.png" alt="image-20210530145415306" loading="lazy"></figure>
 <p>你也可以选择其他的，靠近自己的区域，如兰州，同济等其他的镜像</p>
-<figure data-type="image" tabindex="14"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530145608160.png" alt="image-20210530145608160" loading="lazy"></figure>
+<figure data-type="image" tabindex="15"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530145608160.png" alt="image-20210530145608160" loading="lazy"></figure>
 </li>
 </ul>
 <p>关于本文有任何问题，均可以在评论区留言，好的问题会被回答和精选，方便更多人的学习。</p>
@@ -221,37 +229,39 @@
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
         <summary type="html"><![CDATA[<p>R语言中有非常多的包，每个包都具有不同的功能。因此，在正式的R语言学习之前，需要学会如何下载和安装R的包，以此进行下一步学习。</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602222414440.png" alt="image-20210602222414440" loading="lazy"></figure>
 ]]></summary>
         <content type="html"><![CDATA[<p>R语言中有非常多的包，每个包都具有不同的功能。因此，在正式的R语言学习之前，需要学会如何下载和安装R的包，以此进行下一步学习。</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602222414440.png" alt="image-20210602222414440" loading="lazy"></figure>
 <!--more-->
 <p>R语言中有非常多的包，每个包都具有不同的功能。因此，在正式的R语言学习之前，需要学会如何下载和安装R的包，以此进行下一步学习。</p>
 <ul>
 <li><font color='#008B8B'>install.packages( ) 安装</font></li>
 </ul>
 <p>1.打开RStudio软件，在RStudio中输入代码<code>install.packages()</code>，这里以常用的一个集合包作为示例，因此输入<code>install.packages(&quot;tidyverse&quot;)</code>，记得 <strong><font color='#008B8B'>加英文双引号</font></strong>，然后点击Run</p>
-<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602214336991.png" alt="image-20210602214336991" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602214336991.png" alt="image-20210602214336991" loading="lazy"></figure>
 <p>2.此时在控制台中就会出现安装过程，直至安装成功</p>
-<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602215427868.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602215427868.png" alt="" loading="lazy"></figure>
 <ul>
 <li><font color='#008B8B'>Install Packages 安装</font></li>
 </ul>
 <p>1.打开菜单栏，Tools-Install Packages</p>
-<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602215802621.png" alt="image-20210602215802621" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602215802621.png" alt="image-20210602215802621" loading="lazy"></figure>
 <p>2.这里有两种下载， <strong><font color='#008B8B'>一种是从CRAN，也就是从R的官网直接联网下载</font></strong>， <strong><font color='#008B8B'>一种是首先下载R包，直接加载即可</font></strong></p>
-<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602215851307.png" alt="image-20210602215851307" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602215851307.png" alt="image-20210602215851307" loading="lazy"></figure>
 <p>3.直接使用第一种，输入包的名称，点击install即可安装成功</p>
-<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602221344341.png" alt="image-20210602221344341" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602221344341.png" alt="image-20210602221344341" loading="lazy"></figure>
 <p>4.或者直接点击右下角的install</p>
-<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602221438404.png" alt="image-20210602221438404" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602221438404.png" alt="image-20210602221438404" loading="lazy"></figure>
 <p>5.输入名称，安装即可</p>
-<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602221501863.png" alt="image-20210602221501863" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602221501863.png" alt="image-20210602221501863" loading="lazy"></figure>
 <ul>
 <li><font color='#008B8B'>R包的加载</font></li>
 </ul>
 <p>在安装好R包之后，我们需要加载R包，然后进行R包的使用。在RStudio中输入<code>library( )</code>，即可加载包</p>
 <p>在这里，我们加载tidyverse包即可，输入：</p>
 <p><code>library(tidyverse)</code></p>
-<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602222414440.png" alt="image-20210602222414440" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602222414440.png" alt="image-20210602222414440" loading="lazy"></figure>
 <p>Attaching packages里面显示了该集成包中所包含的子包：ggplot2，tibble，tidyr等。其他包的安装也如上。</p>
 <p>安装好包之后，就等着教程进行学习吧！</p>
 ]]></content>

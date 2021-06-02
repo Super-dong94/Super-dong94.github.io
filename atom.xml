@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Super-dong94.github.io</id>
     <title>Paper绘图</title>
-    <updated>2021-06-02T17:26:46.725Z</updated>
+    <updated>2021-06-02T17:29:37.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Super-dong94.github.io"/>
     <link rel="self" href="https://Super-dong94.github.io/atom.xml"/>
@@ -17,10 +17,10 @@
         </link>
         <updated>2021-06-02T17:17:12.000Z</updated>
         <summary type="html"><![CDATA[<p>网络上有很多AI的矢量素材，那么我们需要拿过来到自己的文章中使用！第一步就是对图形更改颜色，换成跟之前的图形不一样，方可进行下一步操作！今天给大家介绍一个AI技巧，快速更改所有矢量元素颜色！如下所示，只需要一秒钟！</p>
-<h6 id=""><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210512123449121.png" alt="image-20210512123449121" loading="lazy"></h6>
+<h6 id="img-srchttpssuperdongoss-cn-beijingaliyuncscomimage-20210512123449121png-altimage-20210512123449121-stylezoom50"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210512123449121.png" alt="image-20210512123449121" style="zoom:50%;" /></h6>
 ]]></summary>
         <content type="html"><![CDATA[<p>网络上有很多AI的矢量素材，那么我们需要拿过来到自己的文章中使用！第一步就是对图形更改颜色，换成跟之前的图形不一样，方可进行下一步操作！今天给大家介绍一个AI技巧，快速更改所有矢量元素颜色！如下所示，只需要一秒钟！</p>
-<h6 id=""><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210512123449121.png" alt="image-20210512123449121" loading="lazy"></h6>
+<h6 id="img-srchttpssuperdongoss-cn-beijingaliyuncscomimage-20210512123449121png-altimage-20210512123449121-stylezoom50"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210512123449121.png" alt="image-20210512123449121" style="zoom:50%;" /></h6>
 <!--more-->
 <h6 id="font-colorred背景fontfont-color008b8b介绍font"><font color='red'>背景</font><font color='#008B8B'>介绍</font></h6>
 <p>网络上有很多AI的矢量素材，那么我们需要拿过来到自己的文章中使用！第一步就是对图形更改颜色，换成跟之前的图形不一样，方可进行下一步操作！</p>
@@ -59,45 +59,45 @@
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
         <summary type="html"><![CDATA[<p>上个教程我们讲到弦图，说到了弦图的定义以及应用的场景，使用简单的数据帮助大家理清了基础的概念。这个教程我们来学一下弦图的有关参数的调节，使用复杂的数据来进行一些其他场景的应用。本教程我们展示出了 <strong>2019 年世界十大出口国的贸易方向</strong>，相较于上个教程的数据更加丰富，更加具有现实意义。</p>
-<figure data-type="image" tabindex="1"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134502754.png" alt="image-20210331134502754" loading="lazy"></figure>
+<img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134502754.png" alt="image-20210331134502754" style="zoom:50%;" />
 ]]></summary>
         <content type="html"><![CDATA[<p>上个教程我们讲到弦图，说到了弦图的定义以及应用的场景，使用简单的数据帮助大家理清了基础的概念。这个教程我们来学一下弦图的有关参数的调节，使用复杂的数据来进行一些其他场景的应用。本教程我们展示出了 <strong>2019 年世界十大出口国的贸易方向</strong>，相较于上个教程的数据更加丰富，更加具有现实意义。</p>
-<figure data-type="image" tabindex="1"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134502754.png" alt="image-20210331134502754" loading="lazy"></figure>
+<img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134502754.png" alt="image-20210331134502754" style="zoom:50%;" />
 <!--more-->
 <p>上个教程我们讲到弦图，说到了弦图的定义以及应用的场景，使用简单的数据帮助大家理清了基础的概念。这个教程我们来学一下弦图的有关参数的调节，使用复杂的数据来进行一些其他场景的应用。</p>
 <p>本教程我们展示出了 <strong>2019 年世界十大出口国的贸易方向</strong>，相较于上个教程的数据更加丰富，更加具有现实意义。</p>
-<figure data-type="image" tabindex="2"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134502754.png" alt="image-20210331134502754" loading="lazy"></figure>
-<figure data-type="image" tabindex="3"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331142254851.png" alt="image-20210331142254851" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134502754.png" alt="image-20210331134502754" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331142254851.png" alt="image-20210331142254851" loading="lazy"></figure>
 <h6 id="绘图软件">绘图软件</h6>
 <p><strong>Origin Pro 2021</strong>(目前这个软件只能使用教育版本，使用 <strong>.edu</strong>的邮箱进行申请即可，不懂得直接网上搜索就有)</p>
-<figure data-type="image" tabindex="4"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210330095551921.png" alt="image-20210330095551921" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210330095551921.png" alt="image-20210330095551921" loading="lazy"></figure>
 <h6 id="绘图教程">绘图教程</h6>
 <p>这里，我们使用Origin 2021自带的数据进行作图。</p>
 <p>1.打开软件，点击学习中心</p>
-<figure data-type="image" tabindex="5"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134733276.png" alt="image-20210331134733276" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134733276.png" alt="image-20210331134733276" loading="lazy"></figure>
 <p>2.双击这个样式</p>
-<figure data-type="image" tabindex="6"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134802817.png" alt="image-20210331134802817" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134802817.png" alt="image-20210331134802817" loading="lazy"></figure>
 <p>3.然后我们直接使用这一组数据就行了，其他的图形文件不用管</p>
-<figure data-type="image" tabindex="7"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134839029.png" alt="image-20210331134839029" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134839029.png" alt="image-20210331134839029" loading="lazy"></figure>
 <p>4.如图所示，第一列为出口国家，第二列为对应的出口国家，第三列为具体的数值</p>
-<figure data-type="image" tabindex="8"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134917457.png" alt="image-20210331134917457" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134917457.png" alt="image-20210331134917457" loading="lazy"></figure>
 <p>5.选中数据，选择弦图</p>
-<figure data-type="image" tabindex="9"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331135053086.png" alt="image-20210331135053086" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331135053086.png" alt="image-20210331135053086" loading="lazy"></figure>
 <p>6.基础的图形就出来了</p>
-<figure data-type="image" tabindex="10"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331135230556.png" alt="image-20210331135230556" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331135230556.png" alt="image-20210331135230556" loading="lazy"></figure>
 <p>7.双击图形，对其节点宽度和节点间隙，节点连接线起终点进行调整</p>
-<figure data-type="image" tabindex="11"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331135359509.png" alt="image-20210331135359509" loading="lazy"></figure>
+<figure data-type="image" tabindex="10"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331135359509.png" alt="image-20210331135359509" loading="lazy"></figure>
 <p>8.调整如下</p>
-<figure data-type="image" tabindex="12"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331135726148.png" alt="image-20210331135726148" loading="lazy"></figure>
+<figure data-type="image" tabindex="11"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331135726148.png" alt="image-20210331135726148" loading="lazy"></figure>
 <p>9.如果你不喜欢终点的箭头，可以取消掉</p>
-<figure data-type="image" tabindex="13"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331135929579.png" alt="image-20210331135929579" loading="lazy"></figure>
+<figure data-type="image" tabindex="12"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331135929579.png" alt="image-20210331135929579" loading="lazy"></figure>
 <p>10.可以将数值更小的进行隐藏或者更改透明度，以便于发现更加显著的</p>
-<figure data-type="image" tabindex="14"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331140356065.png" alt="image-20210331140356065" loading="lazy"></figure>
-<figure data-type="image" tabindex="15"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331140311755.png" alt="image-20210331140311755" loading="lazy"></figure>
+<figure data-type="image" tabindex="13"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331140356065.png" alt="image-20210331140356065" loading="lazy"></figure>
+<figure data-type="image" tabindex="14"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331140311755.png" alt="image-20210331140311755" loading="lazy"></figure>
 <p>11.最后进行标签节点设置</p>
-<figure data-type="image" tabindex="16"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331142031224.png" alt="image-20210331142031224" loading="lazy"></figure>
+<figure data-type="image" tabindex="15"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331142031224.png" alt="image-20210331142031224" loading="lazy"></figure>
 <p>12.最终成图了</p>
-<figure data-type="image" tabindex="17"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331142254851.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="16"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331142254851.png" alt="" loading="lazy"></figure>
 <p>13.怎么样，学会了么？</p>
 ]]></content>
     </entry>
@@ -108,10 +108,10 @@
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
         <summary type="html"><![CDATA[<p>AI中最关键的设置，安装好第一个设置！</p>
-<h6 id=""><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085813523.png" alt="image-20210511085813523" loading="lazy"></h6>
+<h6 id="img-srchttpssuperdongoss-cn-beijingaliyuncscomimage-20210511085813523png-altimage-20210511085813523-stylezoom50"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085813523.png" alt="image-20210511085813523" style="zoom:50%;" /></h6>
 ]]></summary>
         <content type="html"><![CDATA[<p>AI中最关键的设置，安装好第一个设置！</p>
-<h6 id=""><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085813523.png" alt="image-20210511085813523" loading="lazy"></h6>
+<h6 id="img-srchttpssuperdongoss-cn-beijingaliyuncscomimage-20210511085813523png-altimage-20210511085813523-stylezoom50"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085813523.png" alt="image-20210511085813523" style="zoom:50%;" /></h6>
 <!--more-->
 <h6 id="font-colorred背景fontfont-color008b8b介绍font"><font color='red'>背景</font><font color='#008B8B'>介绍</font></h6>
 <p>在使用AI作图时，你没有没有发现有一个问题，就是做好的矢量图，放大或者缩小，就会变化，下图是一张正常做好的图</p>
@@ -143,10 +143,10 @@
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
         <summary type="html"><![CDATA[<p>柱形散点图，可以用来表示不同分组下的不同数据，非常直观。今天，我们就使用软件的数据，来展示2005-2015年，不同国家人口的预期寿命！</p>
-<h6 id=""><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508140554308.png" alt="image-20210508140554308" loading="lazy"></h6>
+<h6 id="img-srchttpssuperdongoss-cn-beijingaliyuncscomimage-20210508140554308png-altimage-20210508140554308-stylezoom50"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508140554308.png" alt="image-20210508140554308" style="zoom:50%;" /></h6>
 ]]></summary>
         <content type="html"><![CDATA[<p>柱形散点图，可以用来表示不同分组下的不同数据，非常直观。今天，我们就使用软件的数据，来展示2005-2015年，不同国家人口的预期寿命！</p>
-<h6 id=""><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508140554308.png" alt="image-20210508140554308" loading="lazy"></h6>
+<h6 id="img-srchttpssuperdongoss-cn-beijingaliyuncscomimage-20210508140554308png-altimage-20210508140554308-stylezoom50"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508140554308.png" alt="image-20210508140554308" style="zoom:50%;" /></h6>
 <!--more-->
 <h6 id="font-color00bfff介绍font"><font color='#00BFFF'>介绍</font></h6>
 <p>柱形散点图，可以用来表示不同分组下的不同数据，非常直观。今天，我们就使用软件的数据，来展示2005-2015年，不同国家人口的预期寿命！</p>
@@ -192,10 +192,10 @@
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
         <summary type="html"><![CDATA[<h6 id="使用origin做最简单的层次聚类分析">使用Origin做最简单的层次聚类分析！</h6>
-<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531194139329.png" alt="image-20210531194139329" loading="lazy"></figure>
+<img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531194139329.png" alt="image-20210531194139329" style="zoom:50%;" />
 ]]></summary>
         <content type="html"><![CDATA[<h6 id="使用origin做最简单的层次聚类分析">使用Origin做最简单的层次聚类分析！</h6>
-<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531194139329.png" alt="image-20210531194139329" loading="lazy"></figure>
+<img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531194139329.png" alt="image-20210531194139329" style="zoom:50%;" />
 <!--more-->
 <h6 id="font-colorred本节fontfont-color008b8b介绍font"><font color='red'>本节</font><font color='#008B8B'>介绍</font></h6>
 <p>在社会学领域，一般通过给定网络的拓扑结构定义 <strong><font color='#008B8B'>网络节点间的相似性或距离</font></strong>，然后采用单连接层次聚类或全连接层次聚类将网络节点组成一个树状图层次结构。其中，树的叶节点表示网络节点，非叶节点一般由相似或距离接近的子节点合并而得到。</p>
@@ -204,31 +204,31 @@
 <p><strong><font color='#008B8B'>Origin2021</font></strong></p>
 <h6 id="font-colorred作图fontfont-color008b8b教程font"><font color='red'>作图</font><font color='#008B8B'>教程</font></h6>
 <p>本节教程，我们使用Origin中的Learning Center里的数据，来进行演示。打开Origin软件，进入Learning Center，找到肺组织的层次聚类分析，就可以看到了该图以及数据。我们这里只使用数据部分进行教学。</p>
-<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531192300607.png" alt="image-20210531192300607" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531192300607.png" alt="image-20210531192300607" loading="lazy"></figure>
 <p>这里，我删除了其他表格数据，只剩下了作图使用的数据</p>
-<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531192453409.png" alt="image-20210531192453409" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531192453409.png" alt="image-20210531192453409" loading="lazy"></figure>
 <p>1.选中所有数据（ <strong><font color='#008B8B'>除过第一列gene</font></strong>），选择 <strong><font color='#008B8B'>统计-多变量分析-系统聚类分析-打开对话框</font></strong></p>
-<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531192527564.png" alt="image-20210531192527564" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531192527564.png" alt="image-20210531192527564" loading="lazy"></figure>
 <p>2.**<font color='#008B8B'>观测值标记</font>**这里，选择A列的基因名称</p>
-<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531192627778.png" alt="image-20210531192627778" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531192627778.png" alt="image-20210531192627778" loading="lazy"></figure>
 <p>2.使用 <strong><font color='#008B8B'>变量聚类</font></strong>（也就是所有的Y轴数据），**<font color='#008B8B'>聚类个数</font>**选择6（你也可以选择其他，这个根据自己的需求）</p>
-<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531192723017.png" alt="image-20210531192723017" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531192723017.png" alt="image-20210531192723017" loading="lazy"></figure>
 <p>3.输出变量这里，不用动，系统默认就好</p>
-<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531192836210.png" alt="image-20210531192836210" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531192836210.png" alt="image-20210531192836210" loading="lazy"></figure>
 <p>4.绘图这里，选择**<font color='#008B8B'>方向为圆</font>**</p>
-<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531192912031.png" alt="image-20210531192912031" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531192912031.png" alt="image-20210531192912031" loading="lazy"></figure>
 <p>5.然后直接确定即可，这里是进行分析的过程</p>
-<figure data-type="image" tabindex="9"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531194020726.png" alt="image-20210531194020726" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531194020726.png" alt="image-20210531194020726" loading="lazy"></figure>
 <p>6.双击谱系图的文字，标签-字体，颜色设置为自动即可</p>
-<figure data-type="image" tabindex="10"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531193146301.png" alt="image-20210531193146301" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531193146301.png" alt="image-20210531193146301" loading="lazy"></figure>
 <p>7.绘图成功</p>
-<figure data-type="image" tabindex="11"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531194139329.png" alt="image-20210531194139329" loading="lazy"></figure>
+<figure data-type="image" tabindex="10"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531194139329.png" alt="image-20210531194139329" loading="lazy"></figure>
 <p>8.当然，你也可以变成其他的。更改参数</p>
-<figure data-type="image" tabindex="12"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531194222388.png" alt="image-20210531194222388" loading="lazy"></figure>
+<figure data-type="image" tabindex="11"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531194222388.png" alt="image-20210531194222388" loading="lazy"></figure>
 <p>9.选择垂直</p>
-<figure data-type="image" tabindex="13"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531194348790.png" alt="image-20210531194348790" loading="lazy"></figure>
+<figure data-type="image" tabindex="12"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531194348790.png" alt="image-20210531194348790" loading="lazy"></figure>
 <p>10.就会变成如下所示，怎么样，赶紧来试试吧！</p>
-<figure data-type="image" tabindex="14"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531194518123.png" alt="image-20210531194518123" loading="lazy"></figure>
+<figure data-type="image" tabindex="13"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210531194518123.png" alt="image-20210531194518123" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
@@ -238,10 +238,10 @@
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
         <summary type="html"><![CDATA[<p>一个好用的Origin X-Ray Diffraction Analysis App，赶紧来试试吧！</p>
-<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524094943756.png" alt="image-20210524094943642" loading="lazy"></figure>
+<img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524094943756.png" alt="image-20210524094943642" style="zoom:50%;" />
 ]]></summary>
         <content type="html"><![CDATA[<p>一个好用的Origin X-Ray Diffraction Analysis App，赶紧来试试吧！</p>
-<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524094943756.png" alt="image-20210524094943642" loading="lazy"></figure>
+<img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524094943756.png" alt="image-20210524094943642" style="zoom:50%;" />
 <!--more-->
 <h6 id="介绍">介绍</h6>
 <p>当一束单色X射线入射到晶体时，由于晶体是由原子规则排列成的晶胞组成，这些规则排列的原子间距离与入射X射线波长有相同数量级，故由不同原子散射的X射线相互干涉，在某些特殊方向上产生强X射线衍射，衍射线在空间分布的方位和强度，与晶体结构密切相关。这就是X射线衍射的基本原理。</p>
@@ -253,24 +253,24 @@
 <h6 id="教程">教程</h6>
 <h6 id="font-color008b8b数据font"><font color='#008B8B'>数据</font></h6>
 <p>1.打开Origin软件，拖入拿到的X-Ray app，就安装成功了</p>
-<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524094943756.png" alt="image-20210524094943642" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524094943756.png" alt="image-20210524094943642" loading="lazy"></figure>
 <p>2.右击App，我们使用里面的样式数据来进行演示</p>
-<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524095034172.png" alt="image-20210524095034172" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524095034172.png" alt="image-20210524095034172" loading="lazy"></figure>
 <p>3.直接打开即可</p>
-<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524095046693.png" alt="image-20210524095046693" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524095046693.png" alt="image-20210524095046693" loading="lazy"></figure>
 <p>4.使用此数据来做图</p>
-<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524095127627.png" alt="image-20210524095127627" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524095127627.png" alt="image-20210524095127627" loading="lazy"></figure>
 <h6 id="font-color008b8b作图font"><font color='#008B8B'>作图</font></h6>
 <p>1.选中数据，使用折线图</p>
-<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524095233085.png" alt="image-20210524095233085" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524095233085.png" alt="image-20210524095233085" loading="lazy"></figure>
 <p>2.然后选择X-Ray app</p>
-<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524095256684.png" alt="image-20210524095256684" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524095256684.png" alt="image-20210524095256684" loading="lazy"></figure>
 <p>3.选择Covalent Metrology LaB6 reference，选择Normalize Reference Lines</p>
-<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524095336828.png" alt="image-20210524095336828" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524095336828.png" alt="image-20210524095336828" loading="lazy"></figure>
 <p>4.图形就出来了</p>
-<figure data-type="image" tabindex="9"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524095651114.png" alt="image-20210524095651114" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524095651114.png" alt="image-20210524095651114" loading="lazy"></figure>
 <p>5.单击线条，可以更改颜色</p>
-<figure data-type="image" tabindex="10"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524100009539.png" alt="image-20210524100009539" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210524100009539.png" alt="image-20210524100009539" loading="lazy"></figure>
 <p>6.赶紧来试试吧！</p>
 ]]></content>
     </entry>
@@ -282,43 +282,43 @@
         <updated>2021-06-01T16:17:12.000Z</updated>
         <summary type="html"><![CDATA[<p>平时在写论文，想在论文中做一些有关疾病的数据图，但是苦苦找不到数据，没办法作图。</p>
 <p>这里，有一个在线网址，可以查找疾病相关数据，也包含了其他主题的数据，可以下载，进行作图，非常方便，他就是—— <strong><font color='#008B8B'>Our world in data</font></strong>。</p>
-<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518102701960.png" alt="image-20210518102701960" loading="lazy"></figure>
+<img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518102701960.png" alt="image-20210518102701960" style="zoom:50%;" />
 ]]></summary>
         <content type="html"><![CDATA[<p>平时在写论文，想在论文中做一些有关疾病的数据图，但是苦苦找不到数据，没办法作图。</p>
 <p>这里，有一个在线网址，可以查找疾病相关数据，也包含了其他主题的数据，可以下载，进行作图，非常方便，他就是—— <strong><font color='#008B8B'>Our world in data</font></strong>。</p>
-<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518102701960.png" alt="image-20210518102701960" loading="lazy"></figure>
+<img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518102701960.png" alt="image-20210518102701960" style="zoom:50%;" />
 <!--more-->
 <h6 id="font-colorred背景fontfont-color008b8b介绍font"><font color='red'>背景</font><font color='#008B8B'>介绍</font></h6>
 <p>平时在写论文，想在论文中做一些有关疾病的数据图，但是苦苦找不到数据，没办法作图。</p>
 <p>这里，有一个在线网址，可以查找疾病相关数据，也包含了其他主题的数据，可以下载，进行作图，非常方便，他就是——<strong><font color='#008B8B'>Our world in data</font></strong>。</p>
-<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518102701960.png" alt="image-20210518102701960" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518102701960.png" alt="image-20210518102701960" loading="lazy"></figure>
 <h6 id="font-colorred网址fontfont-color008b8b介绍font"><font color='red'>网址</font><font color='#008B8B'>介绍</font></h6>
 <p><strong><font color='#008B8B'>Our world in data</font></strong></p>
 <p>https://ourworldindata.org/charts</p>
-<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518102805310.png" alt="image-20210518102805310" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518102805310.png" alt="image-20210518102805310" loading="lazy"></figure>
 <h6 id="font-colorred数据fontfont-color008b8b查找font"><font color='red'>数据</font><font color='#008B8B'>查找</font></h6>
 <p>1.打开网址之后，我们就可以搜索数据了，这里我用depression（抑郁症）为主题，搜索一下，我们看看会出现什么。当你输入名称的时候，下方就在查找</p>
-<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518102917629.png" alt="image-20210518102917629" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518102917629.png" alt="image-20210518102917629" loading="lazy"></figure>
 <p>2.可以看到，下方分成了好几个板块，都是跟抑郁症相关的数据</p>
-<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518103001658.png" alt="image-20210518103001658" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518103001658.png" alt="image-20210518103001658" loading="lazy"></figure>
 <p>3.我们来看一下关于抑郁症自杀的数据，点进去</p>
-<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518103113765.png" alt="image-20210518103113765" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518103113765.png" alt="image-20210518103113765" loading="lazy"></figure>
 <p>4.此时就出现了1990-2017年的自杀率数据，这是一张动图，点击左下方的按钮，可以动态显示</p>
-<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518103142395.png" alt="image-20210518103142395" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518103142395.png" alt="image-20210518103142395" loading="lazy"></figure>
 <p>5.当然你也可以点击左上角的选择国家，显示那几个国家</p>
-<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518103316135.png" alt="image-20210518103316135" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518103316135.png" alt="image-20210518103316135" loading="lazy"></figure>
 <p>6.然后就只会显示这几个国家的数据，当然你也可以选择隐藏哪些国家</p>
-<figure data-type="image" tabindex="9"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518103413655.png" alt="image-20210518103413655" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518103413655.png" alt="image-20210518103413655" loading="lazy"></figure>
 <p>7.同时网站也提供了表格</p>
-<figure data-type="image" tabindex="10"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518103537441.png" alt="image-20210518103537441" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518103537441.png" alt="image-20210518103537441" loading="lazy"></figure>
 <p>8.以及数据来源</p>
-<figure data-type="image" tabindex="11"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518103603549.png" alt="image-20210518103603549" loading="lazy"></figure>
+<figure data-type="image" tabindex="10"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518103603549.png" alt="image-20210518103603549" loading="lazy"></figure>
 <p>9.点击Download，进行数据下载</p>
-<figure data-type="image" tabindex="12"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518103638570.png" alt="image-20210518103638570" loading="lazy"></figure>
+<figure data-type="image" tabindex="11"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518103638570.png" alt="image-20210518103638570" loading="lazy"></figure>
 <p>10.然后就出现了相应的数据，选择合适的进行作图即可</p>
-<figure data-type="image" tabindex="13"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518104456615.png" alt="image-20210518104456615" loading="lazy"></figure>
+<figure data-type="image" tabindex="12"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518104456615.png" alt="image-20210518104456615" loading="lazy"></figure>
 <p>11.图片的话可以保存为png格式和svg格式</p>
-<figure data-type="image" tabindex="14"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518104557224.png" alt="image-20210518104557224" loading="lazy"></figure>
+<figure data-type="image" tabindex="13"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210518104557224.png" alt="image-20210518104557224" loading="lazy"></figure>
 <p>12.赶紧来试试吧，给你的文章加两张图吧！</p>
 ]]></content>
     </entry>

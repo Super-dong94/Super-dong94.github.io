@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Super-dong94.github.io</id>
     <title>Paper绘图</title>
-    <updated>2021-06-02T17:35:47.472Z</updated>
+    <updated>2021-06-02T17:38:46.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Super-dong94.github.io"/>
     <link rel="self" href="https://Super-dong94.github.io/atom.xml"/>
@@ -11,13 +11,50 @@
     <icon>https://Super-dong94.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Paper绘图</rights>
     <entry>
+        <title type="html"><![CDATA[AI作图必须要知道的设置，不看后悔！]]></title>
+        <id>https://Super-dong94.github.io/post/AI作图必须要知道的设置，不看后悔！/</id>
+        <link href="https://Super-dong94.github.io/post/AI作图必须要知道的设置，不看后悔！/">
+        </link>
+        <updated>2021-06-02T16:17:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>AI中最关键的设置，安装好第一个设置！</p>
+<h6 id="img-srchttpssuperdongoss-cn-beijingaliyuncscomimage-20210511085813523png-altimage-20210511085813523-stylezoom50"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085813523.png" alt="image-20210511085813523" style="zoom:50%;" /></h6>
+]]></summary>
+        <content type="html"><![CDATA[<p>AI中最关键的设置，安装好第一个设置！</p>
+<h6 id="img-srchttpssuperdongoss-cn-beijingaliyuncscomimage-20210511085813523png-altimage-20210511085813523-stylezoom50"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085813523.png" alt="image-20210511085813523" style="zoom:50%;" /></h6>
+<!--more-->
+<h6 id="font-colorred背景fontfont-color008b8b介绍font"><font color='red'>背景</font><font color='#008B8B'>介绍</font></h6>
+<p>在使用AI作图时，你没有没有发现有一个问题，就是做好的矢量图，放大或者缩小，就会变化，下图是一张正常做好的图</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085209864.png" alt="image-20210511085209864" loading="lazy"></figure>
+<p>我们缩小看看，是什么样的效果，字体会变粗，形状变形，有没有很无语</p>
+<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085321089.png" alt="image-20210511085321089" loading="lazy"></figure>
+<p>放大之后呢，字体又会变得很稀松，变得很细</p>
+<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085418498.png" alt="image-20210511085418498" loading="lazy"></figure>
+<p>别怕，小编今天帮你解决这个问题</p>
+<h6 id="font-colorred软件fontfont-color008b8b版本font"><font color='red'>软件</font><font color='#008B8B'>版本</font></h6>
+<p>AI 2021（还没有的赶紧点击下方图片下载吧）</p>
+<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085624142.png" alt="image-20210511085624142" loading="lazy"></figure>
+<h6 id="font-colorred软件fontfont-color008b8b教程font"><font color='red'>软件</font><font color='#008B8B'>教程</font></h6>
+<p>1.打开软件</p>
+<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085701220.png" alt="image-20210511085701220" loading="lazy"></figure>
+<p>2.<strong><font color='#008B8B'>菜单栏-编辑-首选项-常规</font></strong></p>
+<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085717505.png" alt="image-20210511085717505" loading="lazy"></figure>
+<p>3.勾选**<font color='#008B8B'>缩放描边和效果</font>**</p>
+<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085813523.png" alt="image-20210511085813523" loading="lazy"></figure>
+<p>4.然后放大和缩小，图形就不会变化了</p>
+<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085913941.png" alt="image-20210511085913941" loading="lazy"></figure>
+<p>5.小技巧学会了么，**<font color='#008B8B'>赶紧来设置一下</font>**吧？</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2019 年世界十大出口国的贸易方向——高级弦图]]></title>
         <id>https://Super-dong94.github.io/post/2019 年世界十大出口国的贸易方向——高级弦图/</id>
         <link href="https://Super-dong94.github.io/post/2019 年世界十大出口国的贸易方向——高级弦图/">
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>上个教程我们讲到弦图，说到了弦图的定义以及应用的场景，使用简单的数据帮助大家理清了基础的概念。这个教程我们来学一下弦图的有关参数的调节，使用复杂的数据来进行一些其他场景的应用。本教程我们展示出了 <strong>2019 年世界十大出口国的贸易方向</strong>，相较于上个教程的数据更加丰富，更加具有现实意义。</p>
+        <summary type="html"><![CDATA[<p>上个教程我们讲到弦图，说到了弦图的定义以及应用的场景，使用简单的数据帮助大家理清了基础的概念。这个教程我们来学一下弦图的有关参数的调节，使用复杂的数据来进行一些其他场景的应用。本教程我们展示出了 <strong>2019 年世界十大出口国的贸易方向</strong>，相较于上个教程的数据更加丰富，更加具有现实意义。</p>
+<img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134502754.png" alt="image-20210331134502754" style="zoom:50%;" />
+]]></summary>
+        <content type="html"><![CDATA[<p>上个教程我们讲到弦图，说到了弦图的定义以及应用的场景，使用简单的数据帮助大家理清了基础的概念。这个教程我们来学一下弦图的有关参数的调节，使用复杂的数据来进行一些其他场景的应用。本教程我们展示出了 <strong>2019 年世界十大出口国的贸易方向</strong>，相较于上个教程的数据更加丰富，更加具有现实意义。</p>
 <img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331134502754.png" alt="image-20210331134502754" style="zoom:50%;" />
 <!--more-->
 <p>上个教程我们讲到弦图，说到了弦图的定义以及应用的场景，使用简单的数据帮助大家理清了基础的概念。这个教程我们来学一下弦图的有关参数的调节，使用复杂的数据来进行一些其他场景的应用。</p>
@@ -55,41 +92,6 @@
 <p>12.最终成图了</p>
 <figure data-type="image" tabindex="16"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210331142254851.png" alt="" loading="lazy"></figure>
 <p>13.怎么样，学会了么？</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI作图必须要知道的设置，不看后悔！]]></title>
-        <id>https://Super-dong94.github.io/post/AI作图必须要知道的设置，不看后悔！/</id>
-        <link href="https://Super-dong94.github.io/post/AI作图必须要知道的设置，不看后悔！/">
-        </link>
-        <updated>2021-06-01T16:17:12.000Z</updated>
-        <summary type="html"><![CDATA[<p>AI中最关键的设置，安装好第一个设置！</p>
-<h6 id="img-srchttpssuperdongoss-cn-beijingaliyuncscomimage-20210511085813523png-altimage-20210511085813523-stylezoom50"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085813523.png" alt="image-20210511085813523" style="zoom:50%;" /></h6>
-]]></summary>
-        <content type="html"><![CDATA[<p>AI中最关键的设置，安装好第一个设置！</p>
-<h6 id="img-srchttpssuperdongoss-cn-beijingaliyuncscomimage-20210511085813523png-altimage-20210511085813523-stylezoom50"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085813523.png" alt="image-20210511085813523" style="zoom:50%;" /></h6>
-<!--more-->
-<h6 id="font-colorred背景fontfont-color008b8b介绍font"><font color='red'>背景</font><font color='#008B8B'>介绍</font></h6>
-<p>在使用AI作图时，你没有没有发现有一个问题，就是做好的矢量图，放大或者缩小，就会变化，下图是一张正常做好的图</p>
-<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085209864.png" alt="image-20210511085209864" loading="lazy"></figure>
-<p>我们缩小看看，是什么样的效果，字体会变粗，形状变形，有没有很无语</p>
-<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085321089.png" alt="image-20210511085321089" loading="lazy"></figure>
-<p>放大之后呢，字体又会变得很稀松，变得很细</p>
-<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085418498.png" alt="image-20210511085418498" loading="lazy"></figure>
-<p>别怕，小编今天帮你解决这个问题</p>
-<h6 id="font-colorred软件fontfont-color008b8b版本font"><font color='red'>软件</font><font color='#008B8B'>版本</font></h6>
-<p>AI 2021（还没有的赶紧点击下方图片下载吧）</p>
-<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085624142.png" alt="image-20210511085624142" loading="lazy"></figure>
-<h6 id="font-colorred软件fontfont-color008b8b教程font"><font color='red'>软件</font><font color='#008B8B'>教程</font></h6>
-<p>1.打开软件</p>
-<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085701220.png" alt="image-20210511085701220" loading="lazy"></figure>
-<p>2.<strong><font color='#008B8B'>菜单栏-编辑-首选项-常规</font></strong></p>
-<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085717505.png" alt="image-20210511085717505" loading="lazy"></figure>
-<p>3.勾选**<font color='#008B8B'>缩放描边和效果</font>**</p>
-<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085813523.png" alt="image-20210511085813523" loading="lazy"></figure>
-<p>4.然后放大和缩小，图形就不会变化了</p>
-<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210511085913941.png" alt="image-20210511085913941" loading="lazy"></figure>
-<p>5.小技巧学会了么，**<font color='#008B8B'>赶紧来设置一下</font>**吧？</p>
 ]]></content>
     </entry>
     <entry>

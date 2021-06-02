@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>一眼看穿你我之间的论文引用关系——弦图 | Paper绘图</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://Super-dong94.github.io/favicon.ico?v=1622654802117">
+<link rel="stylesheet" href="https://Super-dong94.github.io/styles/main.css">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="弦图，是一种表示 实体之间相互关系的图形方法。直观的看，弦图由节点 分段和 弧形的边构成。节点分段沿圆周排列，节点之间的关系通过使用弧线或贝塞尔曲线相互连接。值得注意的是，这些 弧线是有宽度的，且 起止宽度可以不一样。
+
+
+弦图 - Cho..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://Super-dong94.github.io">
+        <img src="https://Super-dong94.github.io/images/avatar.png?v=1622654802117" class="site-logo">
+        <h1 class="site-title">Paper绘图</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="https://Super-dong94.github.io" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="https://Super-dong94.github.io/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="https://Super-dong94.github.io/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="https://super-dong.top/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      为天地立心，为生民立命，为往圣继绝学，为万世开太平！
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://super-dong.top" target="_blank">Paper绘图</a> | <a class="rss" href="https://Super-dong94.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">一眼看穿你我之间的论文引用关系——弦图</h2>
+            <div class="post-date">2021-06-02</div>
+            
+            <div class="post-content" v-pre>
+              <p><strong>弦图</strong>，是一种表示 <strong>实体之间相互关系</strong>的图形方法。直观的看，弦图由节点 <strong>分段</strong>和 <strong>弧形的边</strong>构成。节点分段沿圆周排列，节点之间的关系通过使用弧线或贝塞尔曲线相互连接。值得注意的是，这些 <strong>弧线是有宽度</strong>的，且 <strong>起止宽度可以不一样</strong>。</p>
+<figure data-type="image" tabindex="1"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210330102313838.png" alt="image-20210330102313838" loading="lazy"></figure>
+<!--more-->
+<h6 id="弦图-chord-diagram">弦图 - Chord Diagram</h6>
+<p><strong>弦图</strong>，是一种表示 <strong>实体之间相互关系</strong>的图形方法。直观的看，弦图由节点 <strong>分段</strong>和 <strong>弧形的边</strong>构成。节点分段沿圆周排列，节点之间的关系通过使用弧线或贝塞尔曲线相互连接。值得注意的是，这些 <strong>弧线是有宽度</strong>的，且 <strong>起止宽度可以不一样</strong>。</p>
+<h6 id="图表属性">图表属性</h6>
+<ul>
+<li><strong>形状:</strong> 圆形</li>
+<li>**图类: **示意图</li>
+<li>**功能: **关系 • 比较</li>
+</ul>
+<p>——以上内容参考图之典(http://tuzhidian.com/chart?id=5c56e33d4a8c5e048189c6cb)</p>
+<h6 id="绘图软件">绘图软件</h6>
+<p><strong>Origin Pro 2021</strong>(目前这个软件只能使用教育版本，使用 <strong>.edu</strong>的邮箱进行申请即可，不懂得直接网上搜索就有)</p>
+<figure data-type="image" tabindex="2"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210330095551921.png" alt="image-20210330095551921" loading="lazy"></figure>
+<h6 id="数据来源">数据来源</h6>
+<p>下面是我自己 <strong>瞎编的一组数据</strong>，只为了大家更好地理解和弦图及其意义。</p>
+<p>Journal就是期刊名称，Cited Journal就是引用的期刊，Number就是引用数量。拿第一行来说，在某个时间段，Science引用了Nature 20篇文章，引用了Cell 30篇文章。</p>
+<figure data-type="image" tabindex="3"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210330100947988.png" alt="image-20210330100947988" loading="lazy"></figure>
+<h6 id="图形绘制">图形绘制</h6>
+<p>1.选中数据，选择弦图</p>
+<figure data-type="image" tabindex="4"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210330101402927.png" alt="image-20210330101402927" loading="lazy"></figure>
+<p>2.基础的图形就出来了</p>
+<figure data-type="image" tabindex="5"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210330101911200.png" alt="image-20210330101911200" loading="lazy"></figure>
+<p>3.将鼠标放在图形上点一下，可以显示出具体的图形，引用的数量</p>
+<figure data-type="image" tabindex="6"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210330101952510.png" alt="image-20210330101952510" loading="lazy"></figure>
+<p>4.双击图形，可以对分组的图形进行填充颜色</p>
+<figure data-type="image" tabindex="7"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210330102255618.png" alt="image-20210330102255618" loading="lazy"></figure>
+<p>5.可以是这样</p>
+<figure data-type="image" tabindex="8"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210330102313838.png" alt="image-20210330102313838" loading="lazy"></figure>
+<p>6.那么以弦图的形式，其实更好的展现出了每个实体之间的关系，非常直观。怎么样，赶紧来试试吧！</p>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://Super-dong94.github.io/post/不同组的折线图进行比较分析/">
+                  <h3 class="post-title">
+                    不同组的折线图进行比较分析
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+
+  </body>
+</html>

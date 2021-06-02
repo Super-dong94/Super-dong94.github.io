@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>Y轴左右对称图如何制作？ | Paper绘图</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://Super-dong94.github.io/favicon.ico?v=1622654802117">
+<link rel="stylesheet" href="https://Super-dong94.github.io/styles/main.css">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="双Y轴图我们之前讲过怎么做了，用来展示同一个X轴对应的两组数据。那么如果只想用一个Y轴展示两组数据，该怎么做呢？有粉丝问，下面的图形如何制作？这其实就是一幅Y轴左右对称的图，使用Origin很好做！那么下来我们就来看看怎么做！其实就是使用O..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://Super-dong94.github.io">
+        <img src="https://Super-dong94.github.io/images/avatar.png?v=1622654802117" class="site-logo">
+        <h1 class="site-title">Paper绘图</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="https://Super-dong94.github.io" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="https://Super-dong94.github.io/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="https://Super-dong94.github.io/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="https://super-dong.top/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      为天地立心，为生民立命，为往圣继绝学，为万世开太平！
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://super-dong.top" target="_blank">Paper绘图</a> | <a class="rss" href="https://Super-dong94.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">Y轴左右对称图如何制作？</h2>
+            <div class="post-date">2021-06-02</div>
+            
+            <div class="post-content" v-pre>
+              <p>双Y轴图我们之前讲过怎么做了，用来展示同一个X轴对应的两组数据。那么如果只想<strong>用一个Y轴展示两组数据</strong>，该怎么做呢？有粉丝问，下面的图形如何制作？这其实就是一幅<strong>Y轴左右对称的图</strong>，使用Origin很好做！那么下来我们就来看看怎么做！其实就是使用Origin里面的一个作图模板，直接使用即可！</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210429161709735.png" alt="image-20210429161709735" loading="lazy"></figure>
+<!--more-->
+<p>双Y轴图我们之前讲过怎么做了，用来展示同一个X轴对应的两组数据。那么如果只想<strong>用一个Y轴展示两组数据</strong>，该怎么做呢？有粉丝问，下面的图形如何制作？这其实就是一幅<strong>Y轴左右对称的图</strong>，使用Origin很好做！那么下来我们就来看看怎么做！其实就是使用Origin里面的一个作图模板，直接使用即可！</p>
+<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210429161709735.png" alt="image-20210429161709735" loading="lazy"></figure>
+<h6 id="软件">软件</h6>
+<p>Origin 2021 (软件在公众号菜单栏，软件中心，公众号里面提到的软件都在这里了)</p>
+<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210429161833295.png" alt="image-20210429161833295" loading="lazy"></figure>
+<h6 id="教程">教程</h6>
+<p>1.打开Origin软件，输入数据，分别为<strong>X，Y1，Y2</strong>数据。这里我直接使用工具进行填充，作为演示数据</p>
+<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210429162012420.png" alt="image-20210429162012420" loading="lazy"></figure>
+<p>2.选中数据，然后点击菜单栏，选择<strong>绘图</strong>-<strong>统计图</strong>-<strong>人口金字塔图</strong>绘图模板</p>
+<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210429162118405.png" alt="image-20210429162118405" loading="lazy"></figure>
+<p>3.一幅基础的图就出来了，在此基础上进行调整</p>
+<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210429162224040.png" alt="image-20210429162224040" loading="lazy"></figure>
+<p>4.如果不需要X轴，可以选中，直接删除即可，然后设置一下坐标轴即可</p>
+<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210429163219046.png" alt="image-20210429163219046" loading="lazy"></figure>
+<p>5.也可以将数据标签展示出来，双击柱子，<strong>启用Y轴 的标签</strong>，显示<strong>两位小数</strong></p>
+<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210429163627648.png" alt="image-20210429163627648" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210429163652509.png" alt="image-20210429163652509" loading="lazy"></figure>
+<p>6.一幅图就做好了，怎么样，赶紧来试试吧！</p>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://Super-dong94.github.io/post/一眼看穿你我之间的论文引用关系——弦图/">
+                  <h3 class="post-title">
+                    一眼看穿你我之间的论文引用关系——弦图
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+
+  </body>
+</html>

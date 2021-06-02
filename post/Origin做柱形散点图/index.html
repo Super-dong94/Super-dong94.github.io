@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>Origin做柱形散点图——2005-2015年不同国家人口的预期寿命 | Paper绘图</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://Super-dong94.github.io/favicon.ico?v=1622654802117">
+<link rel="stylesheet" href="https://Super-dong94.github.io/styles/main.css">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="柱形散点图，可以用来表示不同分组下的不同数据，非常直观。今天，我们就使用软件的数据，来展示2005-2015年，不同国家人口的预期寿命！
+
+
+介绍
+柱形散点图，可以用来表示不同分组下的不同数据，非常直观。今天，我们就使用软件的数据，来展示2..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://Super-dong94.github.io">
+        <img src="https://Super-dong94.github.io/images/avatar.png?v=1622654802117" class="site-logo">
+        <h1 class="site-title">Paper绘图</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="https://Super-dong94.github.io" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="https://Super-dong94.github.io/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="https://Super-dong94.github.io/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="https://super-dong.top/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      为天地立心，为生民立命，为往圣继绝学，为万世开太平！
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://super-dong.top" target="_blank">Paper绘图</a> | <a class="rss" href="https://Super-dong94.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">Origin做柱形散点图——2005-2015年不同国家人口的预期寿命</h2>
+            <div class="post-date">2021-06-02</div>
+            
+            <div class="post-content" v-pre>
+              <p>柱形散点图，可以用来表示不同分组下的不同数据，非常直观。今天，我们就使用软件的数据，来展示2005-2015年，不同国家人口的预期寿命！</p>
+<h6 id=""><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508140554308.png" alt="image-20210508140554308" loading="lazy"></h6>
+<!--more-->
+<h6 id="font-color00bfff介绍font"><font color='#00BFFF'>介绍</font></h6>
+<p>柱形散点图，可以用来表示不同分组下的不同数据，非常直观。今天，我们就使用软件的数据，来展示2005-2015年，不同国家人口的预期寿命！</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508140554308.png" alt="image-20210508140554308" loading="lazy"></figure>
+<h6 id="font-color00bfff软件font"><font color='#00BFFF'>软件</font></h6>
+<p>Origin 2021（直接点击，链接到软件下载安装）</p>
+<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508114133383.png" alt="image-20210508114133383" loading="lazy"></figure>
+<h6 id="font-color00bfff教程font"><font color='#00BFFF'>教程</font></h6>
+<p>1.打开Origin 2021软件，我们使用的数据是Origin的Learning Center中的图例数据（也可以 <strong><font color='#008B8B'>直接按F11</font></strong>）</p>
+<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508114250411.png" alt="image-20210508114250411" loading="lazy"></figure>
+<p>2.找到柱形散点图之后，双击</p>
+<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508114439098.png" alt="image-20210508114439098" loading="lazy"></figure>
+<p>3.这里有数据，如何做图，以及最终的图，我们需要使用数据进行作图（<font color='#808080'>直接使用数据作图或者复制数据到新的origin文件进行作图）</font></p>
+<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508114515210.png" alt="image-20210508114515210" loading="lazy"></figure>
+<p>4.选中数据，点击 <strong><font color='#008B8B'>柱状散点图</font></strong></p>
+<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508134418351.png" alt="image-20210508134418351" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508134127057.png" alt="image-20210508134127057" loading="lazy"></figure>
+<p>5.基本的图形就出来了，我们下来进行调整： <strong><font color='#008B8B'>双击图中的点，设置为圆球体，变大一点形状</font></strong></p>
+<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508134549721.png" alt="image-20210508134549721" loading="lazy"></figure>
+<p>6.选择数据，设置 <strong><font color='#008B8B'>数据点随机排布，自动分格，居中对齐，点阵宽度为0</font></strong></p>
+<figure data-type="image" tabindex="9"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508134657603.png" alt="image-20210508134657603" loading="lazy"></figure>
+<p>7.删除掉图例，双击图形，给他加上一个边框</p>
+<figure data-type="image" tabindex="10"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508135132413.png" alt="image-20210508135132413" loading="lazy"></figure>
+<p>8.设置背景颜色，增加透明度</p>
+<figure data-type="image" tabindex="11"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508135234157.png" alt="image-20210508135234157" loading="lazy"></figure>
+<p>9.双击坐标轴（<font color='#808080'>包括垂直和水平</font>），设置X和Y轴的网格线</p>
+<figure data-type="image" tabindex="12"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508135446917.png" alt="image-20210508135446917" loading="lazy"></figure>
+<p>10.加入文本框，并且设置颜色（<font color='#808080'>右击属性可设置</font>）</p>
+<figure data-type="image" tabindex="13"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508135826609.png" alt="image-20210508135826609" loading="lazy"></figure>
+<p>11.最终图形就做出来了（<font color='#808080'>我去掉了原图中上方的国家的颜色的图例，是因为他和X轴上的国家的坐标信息重复了</font>）</p>
+<figure data-type="image" tabindex="14"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508140156967.png" alt="image-20210508140156967" loading="lazy"></figure>
+<p>12.当然，你也可以添加一个颜色标签</p>
+<figure data-type="image" tabindex="15"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508140533302.png" alt="image-20210508140533302" loading="lazy"></figure>
+<p>13.变成下图所示</p>
+<figure data-type="image" tabindex="16"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210508140554308.png" alt="image-20210508140554308" loading="lazy"></figure>
+<p>14.怎么样，有没有觉得，这个教程已经超越了软件的示例，赶紧学起来吧！</p>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://Super-dong94.github.io/post/Origin如何做层次聚类分析——Hierarchical Cluster Analysis of Lung Tissues/">
+                  <h3 class="post-title">
+                    Origin如何做层次聚类分析——Hierarchical Cluster Analysis
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+
+  </body>
+</html>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Super-dong94.github.io</id>
     <title>Paper绘图</title>
-    <updated>2021-06-02T16:01:25.783Z</updated>
+    <updated>2021-06-02T16:11:36.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Super-dong94.github.io"/>
     <link rel="self" href="https://Super-dong94.github.io/atom.xml"/>
@@ -16,7 +16,10 @@
         <link href="https://Super-dong94.github.io/post/R 语言下载和安装教程/">
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
-        <content type="html"><![CDATA[<h6 id=""></h6>
+        <summary type="html"><![CDATA[<p>R是用于统计分析、绘图的语言和操作环境。R是属于GNU系统的一个自由、免费、源代码开放的软件，它是一个用于统计计算和统计制图的优秀工具。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>R是用于统计分析、绘图的语言和操作环境。R是属于GNU系统的一个自由、免费、源代码开放的软件，它是一个用于统计计算和统计制图的优秀工具。</p>
+<!-- more -->
 <h4 id="font-colorred软件fontfont-color008b8b介绍font"><font color='red'>软件</font><font color='#008B8B'>介绍</font></h4>
 <p>R是用于统计分析、绘图的语言和操作环境。R是属于GNU系统的一个自由、免费、源代码开放的软件，它是一个用于统计计算和统计制图的优秀工具。</p>
 <h4 id="font-colorred软件fontfont-color008b8b下载font"><font color='red'>软件</font><font color='#008B8B'>下载</font></h4>
@@ -57,7 +60,10 @@
         <link href="https://Super-dong94.github.io/post/RStudio下载和安装教程/">
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
-        <content type="html"><![CDATA[<h6 id=""></h6>
+        <summary type="html"><![CDATA[<p>RStudio是R的集成开发环境(IDE)，它包括一个控制台、支持直接执行代码的语法高亮编辑器，以及用于绘图、历史、调试和工作空间管理的工具。通过在RStudio软件中操作R，极大地方便了作图和数据统计分析。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>RStudio是R的集成开发环境(IDE)，它包括一个控制台、支持直接执行代码的语法高亮编辑器，以及用于绘图、历史、调试和工作空间管理的工具。通过在RStudio软件中操作R，极大地方便了作图和数据统计分析。</p>
+<!-- more -->
 <h4 id="font-colorred软件fontfont-color008b8b介绍font"><font color='red'>软件</font><font color='#008B8B'>介绍</font></h4>
 <p>RStudio是R的集成开发环境(IDE)，它包括一个控制台、支持直接执行代码的语法高亮编辑器，以及用于绘图、历史、调试和工作空间管理的工具。</p>
 <p>通过在RStudio软件中操作R，极大地方便了作图和数据统计分析。</p>
@@ -93,7 +99,10 @@
         <link href="https://Super-dong94.github.io/post/R语言——为什么要学习这个工具？建议你们看一下！/">
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
-        <content type="html"><![CDATA[<h6 id=""></h6>
+        <summary type="html"><![CDATA[<p>其实在很早之前就听说过R这个软件，但是学习总是从易至难，先得学一些基础的、好学的软件（如Origin，Graphpad），然后再学一些复杂的、高级的软件（如R，Python）。 <strong><font color='#008B8B'>考虑到R语言对于数据统计分析和绘图的友好性</font></strong> ，所以，之后，就会出现R语言绘图了，也会包括一些R语言的其他分析。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>其实在很早之前就听说过R这个软件，但是学习总是从易至难，先得学一些基础的、好学的软件（如Origin，Graphpad），然后再学一些复杂的、高级的软件（如R，Python）。 <strong><font color='#008B8B'>考虑到R语言对于数据统计分析和绘图的友好性</font></strong> ，所以，之后，就会出现R语言绘图了，也会包括一些R语言的其他分析。</p>
+<!--more-->
 <p>其实在很早之前就听说过R这个软件，但是学习总是从易至难，先得学一些基础的、好学的软件（如Origin，Graphpad），然后再学一些复杂的、高级的软件（如R，Python）。 <strong><font color='#008B8B'>考虑到R语言对于数据统计分析和绘图的友好性</font></strong> ，所以，之后，在Paper绘图公众号中，就会出现R语言绘图了，也会包括一些R语言的其他分析。</p>
 <h6 id="font-color008b8b大概有以下类别font"><strong><font color='#008B8B'>大概有以下类别：</font></strong></h6>
 <ul>
@@ -140,7 +149,10 @@
         <link href="https://Super-dong94.github.io/post/R语言——绘图前的基本设置/">
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
-        <content type="html"><![CDATA[<h6 id=""></h6>
+        <summary type="html"><![CDATA[<p>在安装了R软件以及RStudio软件之后，我们就可以正常在RStudio里面进行一些基本操作了，进行安装包，作图和数据分析了。那么在基本的作图之前，我们是需要进行对RStudio进行一些基础设置，方便之后的绘图。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>在安装了R软件以及RStudio软件之后，我们就可以正常在RStudio里面进行一些基本操作了，进行安装包，作图和数据分析了。那么在基本的作图之前，我们是需要进行对RStudio进行一些基础设置，方便之后的绘图。</p>
+<!-- more -->
 <h4 id="font-colorred本节fontfont-color008b8b介绍font"><font color='red'>本节</font><font color='#008B8B'>介绍</font></h4>
 <p>在安装了R软件以及RStudio软件之后，我们就可以正常在RStudio里面进行一些基本操作了，进行安装包，作图和数据分析了。</p>
 <p>那么在基本的作图之前，我们是需要进行对RStudio进行一些基础设置，方便之后的绘图。</p>
@@ -208,7 +220,11 @@
         <link href="https://Super-dong94.github.io/post/R语言—如何下载和使用包/">
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>R语言中有非常多的包，每个包都具有不同的功能。因此，在正式的R语言学习之前，需要学会如何下载和安装R的包，以此进行下一步学习。</p>
+]]></summary>
         <content type="html"><![CDATA[<p>R语言中有非常多的包，每个包都具有不同的功能。因此，在正式的R语言学习之前，需要学会如何下载和安装R的包，以此进行下一步学习。</p>
+<!--more-->
+<p>R语言中有非常多的包，每个包都具有不同的功能。因此，在正式的R语言学习之前，需要学会如何下载和安装R的包，以此进行下一步学习。</p>
 <ul>
 <li><font color='#008B8B'>install.packages( ) 安装</font></li>
 </ul>

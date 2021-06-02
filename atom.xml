@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Super-dong94.github.io</id>
     <title>Paper绘图</title>
-    <updated>2021-06-02T18:03:13.960Z</updated>
+    <updated>2021-06-02T18:03:30.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Super-dong94.github.io"/>
     <link rel="self" href="https://Super-dong94.github.io/atom.xml"/>
@@ -183,9 +183,9 @@
         <link href="https://Super-dong94.github.io/post/Origin如何做层次聚类分析——Hierarchical Cluster Analysis of Lung Tissues/">
         </link>
         <updated>2021-06-01T16:17:12.000Z</updated>
-        <summary type="html"><![CDATA[<h6 id="使用origin做最简单的层次聚类分析">使用Origin做最简单的层次聚类分析！</h6>
+        <summary type="html"><![CDATA[<p>使用Origin做最简单的层次聚类分析！</p>
 ]]></summary>
-        <content type="html"><![CDATA[<h6 id="使用origin做最简单的层次聚类分析">使用Origin做最简单的层次聚类分析！</h6>
+        <content type="html"><![CDATA[<p>使用Origin做最简单的层次聚类分析！</p>
 <!--more-->
 <h6 id="font-colorred本节fontfont-color008b8b介绍font"><font color='red'>本节</font><font color='#008B8B'>介绍</font></h6>
 <p>在社会学领域，一般通过给定网络的拓扑结构定义 <strong><font color='#008B8B'>网络节点间的相似性或距离</font></strong>，然后采用单连接层次聚类或全连接层次聚类将网络节点组成一个树状图层次结构。其中，树的叶节点表示网络节点，非叶节点一般由相似或距离接近的子节点合并而得到。</p>
